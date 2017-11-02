@@ -22,6 +22,10 @@ While setting up your Visual Studio installation, mark at least the following co
 - [x] Universal Windows Platform Development
 - [x] .NET desktop development
 
+After you finish installing Visual Studio (should take a while), run it and open [DNSChanger.sln](https://github.com/luisbraganca/dns-changer/blob/master/DNSChanger/DNSChanger.sln) or simply double click the file.
+
+Please read the notes before compiling the application.
+
 ### Resources
 
 * Icon
@@ -41,7 +45,7 @@ As you can see on [app.manifest](https://github.com/luisbraganca/dns-changer/blo
 ```
 <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
-So you'll need admin rights on your development environment as well in order to run the application.
+So you'll need admin rights on your development environment as well in order to run the application, simply run Visual Studio as an Administrator.
 
 ## Authors
 
