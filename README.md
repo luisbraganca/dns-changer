@@ -52,7 +52,7 @@ The DNS server used is from:
 ## Notes
 
 As you can see on [app.manifest](https://github.com/luisbraganca/dns-changer/blob/master/DNSChanger/app.manifest), this application requires admin privileges
-```
+```xml
 <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
 ```
 So you'll need admin rights on your development environment as well in order to run the application, simply run Visual Studio as an Administrator.
